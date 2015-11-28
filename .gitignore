@@ -1,4 +1,9 @@
 **/*.log
+xl2/native/
+xl2/obj/
+xl2/tests/*.stylesheet
+xl2/bootstrap/
+xl2/xl
 xlr/obj/
 xlr/xlr
 xlr/tests/*.stylesheet
